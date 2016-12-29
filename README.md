@@ -1,2 +1,2 @@
-# OpenGL
-现代OpenGL
+﻿# OpenGL
+学习现代OpenGL
